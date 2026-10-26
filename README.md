@@ -47,7 +47,3 @@ PDDL/
 - Mission 3: `PDDL/PartC/domain-ext.pddl` + `PDDL/PartC/mission3.pddl`
 
 The three supplied models were previously run using Pyperplan 2.1 (`gbf` + `hff`) and produced executable plans of 10, 20, and 24 actions, respectively. Planner software is **not bundled** and is not needed for the Sudoku solver. No supplementary PDDL problem files are included.
-
-## Coursework submission note
-
-This is a **code-only archive** in response to the Coursework's code-submission section. It contains **no PDF report or video**. If the university requires a *single* final ZIP for all deliverables, add **one final PDF report** only after the cover, video link, and any required declarations have been completed. Rename the ZIP according to your campus and group number. Review and follow the course's academic-integrity requirements.
