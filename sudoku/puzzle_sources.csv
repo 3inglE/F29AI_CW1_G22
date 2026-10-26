@@ -1,0 +1,17 @@
+file,source,source_id,source_url,clues,blanks,difficulty_label
+euler_01.txt,"Project Euler, Problem 96",Grid 01,https://projecteuler.net/resources/documents/0096_sudoku.txt,32,49,Not supplied per grid
+euler_02.txt,"Project Euler, Problem 96",Grid 02,https://projecteuler.net/resources/documents/0096_sudoku.txt,30,51,Not supplied per grid
+euler_03.txt,"Project Euler, Problem 96",Grid 03,https://projecteuler.net/resources/documents/0096_sudoku.txt,28,53,Not supplied per grid
+euler_04.txt,"Project Euler, Problem 96",Grid 04,https://projecteuler.net/resources/documents/0096_sudoku.txt,30,51,Not supplied per grid
+euler_05.txt,"Project Euler, Problem 96",Grid 05,https://projecteuler.net/resources/documents/0096_sudoku.txt,36,45,Not supplied per grid
+euler_06.txt,"Project Euler, Problem 96",Grid 06,https://projecteuler.net/resources/documents/0096_sudoku.txt,24,57,Not supplied per grid
+euler_07.txt,"Project Euler, Problem 96",Grid 07,https://projecteuler.net/resources/documents/0096_sudoku.txt,26,55,Not supplied per grid
+euler_08.txt,"Project Euler, Problem 96",Grid 08,https://projecteuler.net/resources/documents/0096_sudoku.txt,36,45,Not supplied per grid
+euler_09.txt,"Project Euler, Problem 96",Grid 09,https://projecteuler.net/resources/documents/0096_sudoku.txt,26,55,Not supplied per grid
+euler_10.txt,"Project Euler, Problem 96",Grid 10,https://projecteuler.net/resources/documents/0096_sudoku.txt,28,53,Not supplied per grid
+hard.txt,Norvig grid2,,https://www.norvig.com/sudoku.html,17,64,Not independently rated
+easy.txt,Existing project sample - origin not verified,,,30,51,Not independently rated
+medium.txt,Existing project sample - origin not verified,,,36,45,Not independently rated
+unsolvable.txt,Existing project negative test - origin not verified,,,31,50,Not independently rated
+solved.txt,Existing project expected solution - origin not verified,,,81,0,Not independently rated
+conflict.txt,Existing project negative test - origin not verified,,,31,50,Not independently rated

@@ -1,0 +1,12 @@
+﻿puzzle,blanks,status,median_ms,nodes,assignments,backtracks,dead_ends,repeats
+euler_01.txt,49,solved,1.5823,50,49,0,0,11
+euler_02.txt,51,solved,1.8373,57,56,5,1,11
+euler_03.txt,53,solved,3.3741,117,116,63,6,11
+euler_04.txt,51,solved,1.5128,54,53,2,1,11
+euler_05.txt,45,solved,1.1762,46,45,0,0,11
+euler_06.txt,57,solved,13.1605,361,360,303,33,11
+euler_07.txt,55,solved,2.3228,71,70,15,2,11
+euler_08.txt,45,solved,1.186,46,45,0,0,11
+euler_09.txt,55,solved,20.839,636,635,580,52,11
+euler_10.txt,53,solved,10.7885,292,291,238,18,11
+unsolvable.txt,50,unsatisfiable,0.2489,4,3,3,1,11

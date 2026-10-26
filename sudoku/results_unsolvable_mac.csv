@@ -1,0 +1,2 @@
+﻿puzzle,blanks,status,median_ms,nodes,assignments,backtracks,dead_ends,repeats
+unsolvable.txt,50,unsatisfiable,0.2489,4,3,3,1,11

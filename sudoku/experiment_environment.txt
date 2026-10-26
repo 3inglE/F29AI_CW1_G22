@@ -1,0 +1,9 @@
+F29AI Part 1 - Sudoku Benchmark Environment
+Date: 2026年10月16日 星期五 15时24分23秒 CST
+Python: Python 3.13.5
+macOS: 26.4
+Architecture: arm64
+Machine: Mac17,3
+Repetitions: 11 per puzzle
+Method: Backtracking + MRV
+Timing statistic: Median
